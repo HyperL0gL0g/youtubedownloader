@@ -1,2 +1,8 @@
-# youtubedownloader
-SIMPLE PYTHON SCRIPT FOR DOWNLOADING A YOUTUBE VIDEO!!!
+# Youtubedownloader
+Simple python script for downloading a youtube video.
+
+#### Usage
+```
+python Down.py
+```
+
